@@ -9,6 +9,9 @@ Funcionalidades
 Menu interativo para escolher o atributo a ser comparado.
 Comparação automática dos valores do atributo selecionado.
 Resultado claro indicando:
-Qual opção venceu
-O valor de cada opção
-Empate, se houver
+
+Qual opção venceu;
+
+O valor de cada opção;
+
+Empate, se houver;
